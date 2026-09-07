@@ -12,13 +12,12 @@ function App() {
   return (
     <div className="app">
 
-      <Header />
+      
 
       <Landing/>
     
 
-      <Footer />
-2222222222222222222
+      
     </div>
   );
 }
